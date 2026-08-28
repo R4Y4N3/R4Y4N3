@@ -18,7 +18,7 @@
 
 ## About Me
 
-Focused on auditing **smart contracts** and securing **blockchain protocols and infrastructure**.
+Focused on auditing **smart contracts** and securing **blockchain infrastructure and distributed ledger technology (DLT)**.
 
 Experienced with **Solidity and the EVM** and **Rust and Solana**, with hands-on experience through audits, bug bounties, CTFs, and vulnerability research. Also interested in **zero-knowledge (ZK) systems** and their security.
 
