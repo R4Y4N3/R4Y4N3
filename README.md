@@ -1,15 +1,3 @@
-<!-- GitHub Profile Banner -->
-
-<p align="center">
-  <img
-    src="https://res.cloudinary.com/dgxaezwuv/image/upload/v1752487922/c9dd0ea0-55a1-42b7-98c6-b8b0a3ea08ae_1_qlpncn.png"
-    alt="Rayane Boucheraine — Blockchain Security Researcher"
-    width="800"
-  />
-</p>
-
-<br>
-
 <h1 align="center">Hey 👋, I'm Rayane Boucheraine</h1>
 
 <h3 align="center">Blockchain Security Researcher</h3>
@@ -48,7 +36,8 @@ Passionate about finding real, impactful vulnerabilities and contributing to a s
 ## Security Portfolio
 
 <p align="center">
-  <a href="https://github.com/R4Y4N3/Audits-Portfolio"><img src="https://img.shields.io/badge/Audits-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Audits Portfolio" /></a>
+  <a href="https://github.com/R4Y4N3/Audits-Portfolio"><img src="https://img.shields.io/badge/AUDITS-PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="Audits Portfolio" /></a>&nbsp;
+  <a href="https://audits.sherlock.xyz/watson/R4Y4N3"><img src="https://img.shields.io/badge/SHERLOCK-PROFILE-6557E5?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MSAzOCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIxLjI1MTggMjAuNTExNUw0NC4yNzQ2IDIuNjkzMjRDNDYuNjM1OSAwLjc5MjYyNSA0OC44NzkxIC0wLjE1NzY4MyA1MS4wMDQzIC0wLjE1NzY4M0M1NC4xOTIxIC0wLjE1NzY4MyA1OC4wODgzIC0wLjE1NzY4MyA1OS4xNTA4IC0wLjE1NzY4M0M2MC4yMTM0IC0wLjE1NzY4MyA2MC43NDQ3IDAuNTU1MDQ4IDYwLjc0NDcgMS4yNjc3OEM2MC43NDQ3IDEuOTgwNTEgNjAuMjEzNCAyLjY5MzI0IDU5LjE1MDggMi42OTMyNEM1OC4wODgzIDIuNjkzMjQgNTUuMjU0NyAyLjY5MzI0IDUyLjc3NTMgMi42OTMyNEM1MC4yOTU5IDIuNjkzMjQgNDguODc5MSAzLjc2MjM0IDQ2Ljc1NCA1LjkwMDUzTDIxLjI1MTggMzIuOTg0M0MxOC4xODIxIDM2LjU0OCAxNC43NTgyIDM4LjI3MDQgMTAuOTgwMSAzOC4xNTE2QzUuMzEyOTUgMzcuOTczNSAwIDM0Ljc2NjIgMCAyOS4wNjQzQzAgMjMuNzE4MiAwIDE4LjM3MjEgMCAxMy4wMjZDMCAxMi4yMzk3IDAuNjM1ODkgMTEuNjAyNCAxLjQyMDMgMTEuNjAyNEgxOS44MzE1QzIwLjYxNTkgMTEuNjAyNCAyMS4yNTE4IDEyLjIzOTcgMjEuMjUxOCAxMy4wMjZWMjAuNTExNVoiLz48L3N2Zz4%3D&labelColor=28244B" alt="Sherlock Profile" /></a>
 </p>
 
 <br>
