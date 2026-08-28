@@ -1,4 +1,5 @@
 <!-- GitHub Profile Banner -->
+
 <p align="center">
   <img
     src="https://res.cloudinary.com/dgxaezwuv/image/upload/v1752487922/c9dd0ea0-55a1-42b7-98c6-b8b0a3ea08ae_1_qlpncn.png"
@@ -17,9 +18,9 @@
 
 ## About Me
 
-Focused on auditing **smart contracts** and securing **blockchain infrastructure and distributed ledger technology (DLT)**.
+Focused on auditing **smart contracts** and securing **blockchain protocols and infrastructure**.
 
-Experienced with **Solidity and the EVM**, **Rust and Solana**, and **Go with Cosmos**, with hands-on experience through audits, bug bounties, CTFs, and vulnerability research. Also interested in **zero-knowledge (ZK) systems** and their security.
+Experienced with **Solidity and the EVM** and **Rust and Solana**, with hands-on experience through audits, bug bounties, CTFs, and vulnerability research. Also interested in **zero-knowledge (ZK) systems** and their security.
 
 Passionate about finding real, impactful vulnerabilities and contributing to a safer Web3 ecosystem.
 
@@ -29,13 +30,13 @@ Passionate about finding real, impactful vulnerabilities and contributing to a s
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=solidity,rust,go,ts,js,python"
-    alt="Solidity, Rust, Go, TypeScript, JavaScript, and Python"
+    src="https://skillicons.dev/icons?i=solidity,rust,ts,js,python"
+    alt="Solidity, Rust, TypeScript, JavaScript, and Python"
   />
 </p>
 
 <p align="center">
-  <strong>Solidity · EVM &nbsp;&nbsp;|&nbsp;&nbsp; Rust · Solana &nbsp;&nbsp;|&nbsp;&nbsp; Go · Cosmos</strong>
+  <strong>Solidity · EVM &nbsp;&nbsp;|&nbsp;&nbsp; Rust · Solana</strong>
 </p>
 
 <p align="center">
